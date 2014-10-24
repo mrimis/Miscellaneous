@@ -1,4 +1,4 @@
-#Cell growth prediction program using multiple regression model
+#Cell growth prediction program using multiple regression model#
 args <- commandArgs(TRUE)
 
 parseArgs <- function(x) strsplit(sub("^-","", x), "=")
