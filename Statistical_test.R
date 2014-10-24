@@ -1,4 +1,4 @@
-#Statistical Test for analysis of Intraheterogeneity of morphological feature on each day
+##Statistical Test for analysis of Intraheterogeneity of morphological feature on each day
 path_in1="/Users/mrinalmishra/Documents/thesis/control/LNCAP/DMSO/Tex/tex_param_Day4_features_mean.txt"
 path_in2="/Users/mrinalmishra/Documents/thesis/Co-culture/LNCAP/DMSO/Tex/tex_param_Day4_features_mean.txt.txt"
 path_in3="/Users/mrinalmishra/Documents/thesis/control/LNCAP/DMSO/Tex/tex_param_Day5_features_mean.txt"
