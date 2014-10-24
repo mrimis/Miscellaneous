@@ -1,7 +1,7 @@
 #Cell growth prediction program using multiple regression model
 args <- commandArgs(TRUE)
 
-parseArgs <- function(x) strsplit(sub("^-", "", x), "=")
+parseArgs <- function(x) strsplit(sub("^-","", x), "=")
 argsDF <- as.data.frame(do.call("rbind", parseArgs(args)))
 argsL <- as.list(as.character(argsDF$V2))
 
